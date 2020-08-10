@@ -2,5 +2,17 @@
   "itn": {
     "owner": "ed25519_pk1w0h2q6p9at8kzyvgkdln9lcxl8wmrnwur5prxvy6s05mexrwar2s7quv7v",
     "witness": "ed25519_sig1wr4nzl3x5vkr4258rdgjsakhmxsv6fjlf78epf8cl7mhrg4ut59df2zeue2jkjyulxvskv3xl5d0w0mnf2g0jjqe7c9k923wzh5aqzskne0qw"
-  }
+  },
+  "info": {
+    "social": {
+      "telegram_handle": "rdlrtpool",
+      "github_handle": "rdlrt"
+    }
+  },
+  "my-pool-ids": [
+    "5271fc86fd9c25613c138c4aef6f8593b2952c95897b079facebbc9e"
+  ],
+  "telegram-admin-handle": [
+    "rdlrt"
+  ]
 }
