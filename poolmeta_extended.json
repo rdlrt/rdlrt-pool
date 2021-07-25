@@ -6,13 +6,21 @@
   "info": {
     "social": {
       "telegram_handle": "clio_rdlrt_undr",
+      "discord_handle": "RDLRT#3468",
       "github_handle": "rdlrt"
-    }
+    },
+    "about": "A simplistic pool operator who is here to hope contribute better to the ecosystem, and weigh-in morales in a business-oriented world."
   },
   "my-pool-ids": [
     "5271fc86fd9c25613c138c4aef6f8593b2952c95897b079facebbc9e"
   ],
   "telegram-admin-handle": [
     "rdlrt"
-  ]
+  ],
+  "votes": {
+    "https://spovotes.com/votes/change-min-fixed-fee-to-variable/": {
+      "vote": "Yes",
+      "comment": "Been asked for by community almost since STN days, it was a short-lived idea. Operators are well equipped to think for themselves and apply financial costs as part of margin."
+    }
+  }
 }
